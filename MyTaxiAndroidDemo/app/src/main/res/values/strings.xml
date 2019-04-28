@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyTaxiAndroidDemo</string>
+    <string-array name="direction">
+        <item>North</item>
+        <item>North-East</item>
+        <item>East</item>
+        <item>South-East</item>
+        <item>South</item>
+        <item>South-West</item>
+        <item>West</item>
+        <item>North-West</item>
+    </string-array>
+
+
+</resources>
